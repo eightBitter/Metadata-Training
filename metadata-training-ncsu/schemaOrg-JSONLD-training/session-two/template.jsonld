@@ -1,0 +1,10 @@
+{
+  "@context": "",
+  "@type": "",
+  "@id": "",
+  "key": "value",
+  "this is a nested object": {
+    "key": "value",
+    "key": "value",
+  },
+}
